@@ -1,4 +1,4 @@
-# Network Diagnostic Tool
+# Network Diagnostic Tool - WORK IN PROGRESS
 
 A comprehensive Python tool for network diagnostics including Ping, Traceroute, and Latency measurements.
 
